@@ -59,7 +59,7 @@ After doing some internet research we've found information on the diet and preda
 
 <iframe src="Treemap2.html" width="1024" height="768" title="Treemap2" style="border:none"></iframe>
 
-![Endangered%20Pyramid.jpg](attachment:Endangered%20Pyramid.jpg)
+<img src="Endangered_Pyramid.jpg" alt="Endangered%20Pyramid>
 
 # Calculating Priority Score
 
