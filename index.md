@@ -53,8 +53,8 @@ There are 14 species listed as endangered and 9 different species listed as thre
 
 <table><tr><td><img src='https://cdn.britannica.com/00/95200-050-F0C768B9/Energy-flow-heat-loss-amount-biomass-land.jpg' width = 500></td><td><img src='https://cdn.britannica.com/92/180492-050-9389FB50/energy-pyramid-level-organisms-producers-flow-consumers.jpg' width = 550></td></tr></table>
 
-Trophic pyramid, Image, Encyclopædia Britannica, https://www.britannica.com/science/trophic-level#/media/1/606492/165423, Access Date: May 9, 2021
-Energy pyramid, Image, Encyclopædia Britannica, https://www.britannica.com/science/trophic-level#/media/1/606492/228957, Access Date: May 9, 2021
+[Trophic pyramid](https://www.britannica.com/science/trophic-level#/media/1/606492/165423), Image, Encyclopædia Britannica, Access Date: May 9, 2021
+[Energy pyramid](https://www.britannica.com/science/trophic-level#/media/1/606492/228957), Image, Encyclopædia Britannica, Access Date: May 9, 2021
 
 
 Notice the numerical values of energy, kcal, as you go from the bottom to the top. A general trend is that it goes down by a factor of ten each time you ascend a level. This is because an organism only stores 10% of the energy it eats as potential energy in its body. The rest is lost as heat energy or as kinetic energy used to move around and breathe. 
