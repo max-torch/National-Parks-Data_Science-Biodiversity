@@ -53,7 +53,7 @@ There are 14 species listed as endangered and 9 different species listed as thre
 
 <table><tr><td><img src='https://cdn.britannica.com/00/95200-050-F0C768B9/Energy-flow-heat-loss-amount-biomass-land.jpg' width = 500></td><td><img src='https://cdn.britannica.com/92/180492-050-9389FB50/energy-pyramid-level-organisms-producers-flow-consumers.jpg' width = 550></td></tr></table>
 
-[Trophic pyramid](https://www.britannica.com/science/trophic-level#/media/1/606492/165423), Image, Encyclopædia Britannica, Access Date: May 9, 2021
+[Trophic pyramid](https://www.britannica.com/science/trophic-level#/media/1/606492/165423), Image, Encyclopædia Britannica, Access Date: May 9, 2021<br>
 [Energy pyramid](https://www.britannica.com/science/trophic-level#/media/1/606492/228957), Image, Encyclopædia Britannica, Access Date: May 9, 2021
 
 
