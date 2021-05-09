@@ -1,3 +1,9 @@
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+</head>
+
 Data Source: Acquired from [Codecademy](https://www.codecademy.com/learn), which says the data is "from the National Parks Service".
 
 National Parks are large natural or near natural areas set aside to protect large-scale ecological processes, along with the complement of species and ecosystems characteristic of the area, which also provide a foundation for environmentally and culturally compatible spiritual, scientific, educational, recreational and visitor opportunities.[<sup>1</sup>](https://www.iucn.org/theme/protected-areas/about/protected-areas-categories/category-ii-national-park) In the United States, there are sixty-three national parks (not to be confused with other kinds of parks).[<sup>2</sup>](https://www.nps.gov/aboutus/national-park-system.htm) Former US President Barack Obama has been quoted as saying "This [National Parks] was America's best idea".[<sup>3</sup>](https://www.bing.com/videos/search?q=youtube+obama+national+park&docid=608019961633119782&mid=7F9501A986B7168EFD8F7F9501A986B7168EFD8F&view=detail&FORM=VIRE)
@@ -59,7 +65,7 @@ After doing some internet research we've found information on the diet and preda
 
 <iframe src="Treemap2.html" width="1024" height="768" title="Treemap2" style="border:none"></iframe>
 
-<img src="Endangered_Pyramid.jpg" alt="Endangered%20Pyramid>
+![jpg](Endangered_Pyramid.jpg)
 
 # Calculating Priority Score
 
