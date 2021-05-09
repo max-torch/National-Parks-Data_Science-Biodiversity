@@ -1,6 +1,6 @@
 theme:              jekyll-theme-cayman
 title:              Assigining Priority Levels to Endangered Species As a Data Scientist
-image: https://images.unsplash.com/photo-1566823106909-bbfab7c4a4a3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80
+image:              c-z-shi--1YK96H2tHM-unsplash.jpg
 markdown:           kramdown
 kramdown:
     math_engine:    katex
