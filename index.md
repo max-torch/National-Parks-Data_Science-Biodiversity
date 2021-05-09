@@ -99,7 +99,7 @@ $$Priorityscore = \prod_{j=1}^{n}{a_{j}}^{w_j}$$
 
 Applying the formula to get a prioritization score would be
 
-$priority score = conservation status^{w_1}*trophic level^{w_2}*environmenttransform^{w_3}*pollinationlevel^{w_4}*DiseaseIncubation^{w_5}*Populationestimate^{w_6}*HabitatArea^{w_7}$
+$$priority score = conservation status^{w_1}*trophic level^{w_2}*environmenttransform^{w_3}*pollinationlevel^{w_4}*DiseaseIncubation^{w_5}*Populationestimate^{w_6}*HabitatArea^{w_7}$$
 
 _*The full weighted product formula has a root of k, where k is the sum of all relative weights. We do not need it if we are only concerned with relative scale and not with exact central location._
 
@@ -107,9 +107,9 @@ _*The full weighted product formula has a root of k, where k is the sum of all r
 
 1. ["Category II: National Park"](https://www.iucn.org/theme/protected-areas/about/protected-areas-categories/category-ii-national-park). IUCN. 5 February 2016.
 1. ["National Park System"](https://www.nps.gov/aboutus/national-park-system.htm). National Park Service. 9 May 2021.
-1. National Geographic. (2016, June 19). ["America's Best Idea" - President Obama on National Parks | National Geographic](https://www.youtube.com/watch?v=cF2ZmWfnXDw). [Video]. YouTube.
+1. National Geographic. (2016, June 19). ["America's Best Idea" - President Obama on National Parks](https://www.youtube.com/watch?v=cF2ZmWfnXDw). [Video]. YouTube.
 1. ["Species of Concern"](https://www.fws.gov/midwest/es/soc/#:~:text=%22Species%20of%20concern%22%20is%20an%20informal%20term%20that,the%20populations%20and%20degree%20and%20types%20of%20threats.). US Fish & Wildlife Service. 9 May 2021.
-1. ["Endangered Species Act | Section 3"](https://www.fws.gov/endangered/laws-policies/section-3.html). US Fish & Wildlife Service. 9 May 2021.
+1. ["Endangered Species Act, Section 3"](https://www.fws.gov/endangered/laws-policies/section-3.html). US Fish & Wildlife Service. 9 May 2021.
 1. Evans *et al*. (Winter 2016). ["Species Recovery in the United States:
 Increasing the Effectiveness of the
 Endangered Species Act"](https://www.esa.org/esa/wp-content/uploads/2016/01/Issue20.pdf). Issues In Ecology. 9 May 2021.
