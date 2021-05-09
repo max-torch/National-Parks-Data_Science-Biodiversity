@@ -94,7 +94,7 @@ $$priority score = conservation status*trophic level$$
 
 We are multiplying instead of adding because we are making the assumption that the factors involved are not independent of each other, rather, that they all can combine in the same ecosystem to create a compounding effect.[<sup>9</sup>](https://sites.tufts.edu/richardvogel/files/2020/04/Geometric-Mean-2020.pdf) This is reflected by the fact that the loss of a single species or habitat can have massive/cascading/chain-reaction effects throughout the whole system. 
 
-In the figure below, the size of each box represents the relative importance of each species.
+In the figure below, the size of each box represents our calculated relative importance of each species.
 
 <iframe src="Treemap3.html" width="1024" height="768" title="Treemap3" style="border:none"></iframe>
 
