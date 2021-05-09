@@ -1,5 +1,3 @@
-# Assigining Priority Levels to Endangered Species As a Data Scientist
-
 Data Source: Acquired from [Codecademy](https://www.codecademy.com/learn), which says the data is "from the National Parks Service".
 
 National Parks are large natural or near natural areas set aside to protect large-scale ecological processes, along with the complement of species and ecosystems characteristic of the area, which also provide a foundation for environmentally and culturally compatible spiritual, scientific, educational, recreational and visitor opportunities.[<sup>1</sup>](https://www.iucn.org/theme/protected-areas/about/protected-areas-categories/category-ii-national-park) In the United States, there are sixty-three national parks (not to be confused with other kinds of parks).[<sup>2</sup>](https://www.nps.gov/aboutus/national-park-system.htm) Former US President Barack Obama has been quoted as saying "This [National Parks] was America's best idea".[<sup>3</sup>](https://www.bing.com/videos/search?q=youtube+obama+national+park&docid=608019961633119782&mid=7F9501A986B7168EFD8F7F9501A986B7168EFD8F&view=detail&FORM=VIRE)
@@ -16,7 +14,7 @@ We have been given data from four American National Parks. Yosemite, Yellowstone
 
 # Species Which Have Conservation Status Labels
 
-<iframe src="Treemap1.html" width="800" height="600" title="Treemap1" style="border:none"></iframe>
+<iframe src="Treemap1.html" width="1024" height="768" title="Treemap1" style="border:none"></iframe>
 
 Start by exploring the data we've been given. This Interactive Treemap contains different species grouped by taxonomic class and conservation status. Zoom in on different categories by clicking on its box. Zoom out by clicking on the navigation bar at the top of the figure. Reveal more information on different elements of the treemap by moving the cursor over it.
 
@@ -59,7 +57,7 @@ Now that we have established the concept of trophic levels, we can start identif
 
 After doing some internet research we've found information on the diet and predators of each of our species, which helped us assign trophic levels. We are only doing our best to assign trophic levels. In reality, there are many nuances and things to consider, such as a species being at different trophic levels throughout its life, like a tadpole that becomes a frog. We have two visualizations; a treemap(*Species information on hover*), and a trophic pyramid.
 
-<iframe src="Treemap2.html" width="800" height="600" title="Treemap2" style="border:none"></iframe>
+<iframe src="Treemap2.html" width="1024" height="768" title="Treemap2" style="border:none"></iframe>
 
 ![Endangered%20Pyramid.jpg](attachment:Endangered%20Pyramid.jpg)
 
@@ -77,7 +75,7 @@ We are multiplying instead of adding because we are making the assumption that t
 
 In the figure below, the size of each box represents the relative importance of each species.
 
-<iframe src="Treemap3.html" width="800" height="600" title="Treemap3" style="border:none"></iframe>
+<iframe src="Treemap3.html" width="1024" height="768" title="Treemap3" style="border:none"></iframe>
 
 # Next Steps
 
