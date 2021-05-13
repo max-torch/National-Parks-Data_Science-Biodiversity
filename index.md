@@ -63,7 +63,7 @@ Another trend, more emphasized by the pyramid, is that there are less numbers of
 
 Why do we even require that all spaces on the pyramid be occupied? Every single place on the pyramid has an important function. The species at the top regulate the numbers of the species at the bottom. When a species near the bottom gets out of control it can eat up all the food supply, affecting all the other species in the whole ecosystem. Effects that ripple all the way from the top to the bottom of the pyramid are known as [trophic cascades](https://en.wikipedia.org/wiki/Trophic_cascade). A case study is the Gray Wolves of Yellowstone Park. In the 1920s, the Gray Wolves went locally extinct in the Park.
 
-<img align="left" src='https://upload.wikimedia.org/wikipedia/commons/c/c6/Trophic_Cascade.svg' width = 100%>
+<img align="left" src='https://upload.wikimedia.org/wikipedia/commons/c/c6/Trophic_Cascade.svg' width = "100%">
 
 * [Original File](https://upload.wikimedia.org/wikipedia/commons/c/c6/Trophic_Cascade.svg)
 * [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
