@@ -31,7 +31,7 @@ We have been given data from four American National Parks. Yosemite, Yellowstone
 
 # Park Locations
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1gX-IcVkAyhvlZljzJMCmOUJ1jTef9ffD" width="640" height="480" title="Park_Locations"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1gX-IcVkAyhvlZljzJMCmOUJ1jTef9ffD" width="100%" height="480" title="Park_Locations"></iframe>
 
 # Species Which Have Conservation Status Labels
 
@@ -78,7 +78,7 @@ Now that we have established the concept of trophic levels, we can start identif
 
 After doing some internet research we've found information on the diet and predators of each of our species, which helped us assign trophic levels. We are only doing our best to assign trophic levels. In reality, there are many nuances and things to consider, such as a species being at different trophic levels throughout its life, like a tadpole that becomes a frog. We have two visualizations; a treemap(*Species information on hover*), and a trophic pyramid.
 
-<iframe src="Treemap2.html" width="1024" height="768" title="Treemap2" style="border:none"></iframe>
+<iframe src="Treemap2.html" width="100%" height="768" title="Treemap2" style="border:none"></iframe>
 
 ![jpg](Endangered_Pyramid.jpg)
 
@@ -96,7 +96,7 @@ We are multiplying instead of adding because we are making the assumption that t
 
 In the figure below, the size of each box represents our calculated relative importance of each species.
 
-<iframe src="Treemap3.html" width="1024" height="768" title="Treemap3" style="border:none"></iframe>
+<iframe src="Treemap3.html" width="100%" height="768" title="Treemap3" style="border:none"></iframe>
 
 # Next Steps
 
