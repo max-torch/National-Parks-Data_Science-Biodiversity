@@ -35,7 +35,7 @@ We have been given data from four American National Parks. Yosemite, Yellowstone
 
 # Species Which Have Conservation Status Labels
 
-<iframe src="Treemap1.html" width="100%" title="Treemap1" style="border:none"></iframe>
+<iframe src="Treemap1.html" width="100%" height = "768" title="Treemap1" style="border:none"></iframe>
 
 Start by exploring the data we've been given. This Interactive Treemap contains different species grouped by taxonomic class and conservation status. Zoom in on different categories by clicking on its box. Zoom out by clicking on the navigation bar at the top of the figure. Reveal more information on different elements of the treemap by moving the cursor over it.
 
