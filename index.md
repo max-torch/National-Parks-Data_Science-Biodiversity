@@ -37,7 +37,7 @@ We have been given data from four American National Parks. Yosemite, Yellowstone
 
 <iframe src="Treemap1.html" width="100%" height = "768" title="Treemap1" style="border:none"></iframe>
 
-Start by exploring the data we've been given. This Interactive Treemap contains different species grouped by taxonomic class and conservation status. Zoom in on different categories by clicking on its box. Zoom out by clicking on the navigation bar at the top of the figure. Reveal more information on different elements of the treemap by moving the cursor over it.
+Start by exploring the data we've been given. This Interactive Treemap contains different species grouped by taxonomic class and conservation status. Zoom in on different categories by clicking on its box. Zoom out by clicking on the navigation bar at the top of the figure. Reveal more information on different elements of the treemap by moving the cursor over it. Tap and Hold to reveal information on a touchscreen.
 
 There are four different conservation status labels. In order to start assigning priority ,we need to understand these labels.
 * **Species of Concern**. An informal term used to denote that a species might need conservation actions. "Species of concern" receive no legal protection and the use of the term does not necessarily mean that the species will eventually be proposed for listing as a threatened or endangered species.[<sup>4</sup>](https://www.fws.gov/midwest/es/soc/#:~:text=%22Species%20of%20concern%22%20is%20an%20informal%20term%20that,the%20populations%20and%20degree%20and%20types%20of%20threats.)
@@ -77,7 +77,7 @@ Now that we have established the concept of trophic levels, we can start identif
 
 # Predators, Diet, and Trophic Levels of Our Species
 
-After doing some internet research we've found information on the diet and predators of each of our species, which helped us assign trophic levels. We are only doing our best to assign trophic levels. In reality, there are many nuances and things to consider, such as a species being at different trophic levels throughout its life, like a tadpole that becomes a frog. We have two visualizations; a treemap(*Species information on hover*), and a trophic pyramid.
+After doing some internet research we've found information on the diet and predators of each of our species, which helped us assign trophic levels. We are only doing our best to assign trophic levels. In reality, there are many nuances and things to consider, such as a species being at different trophic levels throughout its life, like a tadpole that becomes a frog. We have two visualizations; a treemap(*Species information on mouse hover, or tap and hold on mobile*), and a trophic pyramid.
 
 <iframe src="Treemap2.html" width="100%" height="768" title="Treemap2" style="border:none"></iframe>
 
@@ -95,7 +95,7 @@ $$priority score = conservation status*trophic level$$
 
 We are multiplying instead of adding because we are making the assumption that the factors involved are not independent of each other, rather, that they all can combine in the same ecosystem to create a compounding effect.[<sup>9</sup>](https://sites.tufts.edu/richardvogel/files/2020/04/Geometric-Mean-2020.pdf) This is reflected by the fact that the loss of a single species or habitat can have massive/cascading/chain-reaction effects throughout the whole system. 
 
-In the figure below, the size of each box represents our calculated relative importance of each species.
+In the figure below, the size of each box represents our calculated relative importance of each species. (*Species information on mouse hover, or tap and hold on mobile*)
 
 <iframe src="Treemap3.html" width="100%" height="768" title="Treemap3" style="border:none"></iframe>
 
